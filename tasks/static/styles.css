@@ -1,9 +1,21 @@
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
-    background-color: #1e3a8a;
+    background-color: #8a1e8a;
     color: #f1f5f9;         
 }
+
+h1 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+
+
+form {
+    text-align: center;
+}
+
 
 h1 {
     color: #e0f2fe;        
@@ -20,14 +32,14 @@ input {
 
 button {
     padding: 6px 10px;
-    background-color: #3b82f6; 
+    background-color: #f63bdd; 
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #2563eb;
+    background-color: #c325eb;
 }
 
 ul {
